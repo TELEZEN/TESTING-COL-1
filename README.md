@@ -50,7 +50,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/filter-main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TELEZEN/TESTING-COL-1)
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
